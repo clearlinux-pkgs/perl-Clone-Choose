@@ -7,7 +7,7 @@
 #
 Name     : perl-Clone-Choose
 Version  : 0.010
-Release  : 27
+Release  : 28
 URL      : https://cpan.metacpan.org/authors/id/H/HE/HERMES/Clone-Choose-0.010.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/H/HE/HERMES/Clone-Choose-0.010.tar.gz
 Summary  : 'Choose appropriate clone utility'
